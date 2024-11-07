@@ -5,3 +5,4 @@ saya menggunakan api untuk membuat aplikasi androidnya dan tool yg saya pakai ad
 -Visual Studio Code
 -Android Studio
 -Comand Promd
+![alt text](https://github.com/arsalfrlh/App-Komptech-laravel-flutter/blob/main/komptech.PNG?raw=true)
